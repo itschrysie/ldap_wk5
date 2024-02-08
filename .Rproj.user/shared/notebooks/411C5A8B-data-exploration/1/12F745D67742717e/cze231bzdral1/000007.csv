@@ -1,0 +1,6 @@
+"0","# save the plot 
+ggsave(""datasuraus_dozen.png"", width = 20, height = 20, units = ""cm"")
+"
+"2","Error in ggsave(""datasuraus_dozen.png"", width = 20, height = 20, units = ""cm"") : 
+  could not find function ""ggsave""
+"

@@ -1,0 +1,31 @@
+{
+    "id": "6B070253",
+    "path": "D:/Documents/DNP/Year 1/LDAP/ldap_wk5/data-exploration.R",
+    "project_path": "data-exploration.R",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1707387245553.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "122,16",
+        "scrollLine": "112",
+        "rmdVisualMode": "false",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "624:206.5",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1707390470,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1707390468636,
+    "read_only": false,
+    "read_only_alternatives": []
+}
